@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there 👋, I'm Nishanth V<br><br>🎓 **First-year student at SRM Ramapuram**<br>💻 Aspiring Software Engineer | Hackathon Enthusiast | AI-curious<br>⚽ Football player by passion, problem-solver by mindset<br><br>---<br><br>## 🔭 What I’m currently working on<br><br>* Strengthening my **Data Structures & Algorithms** fundamentals (Python & Java)<br>* Building **real-world mini projects** to sharpen problem-solving skills<br>* Exploring **AI-related concepts** through hands-on experimentation<br>* Preparing for upcoming **hackathons and coding competitions**<br><br>---<br><br>## 👯 I’m looking to collaborate on<br><br>* **Hackathon projects** (especially beginner-to-intermediate level)<br>* **AI-based projects** like face recognition, automation, or smart systems<br>* **Open-source projects** that welcome student contributors<br><br>---<br><br>## 🤝 I’m looking for help with<br><br>* Writing **optimized and clean DSA solutions**<br>* Improving **project architecture and GitHub best practices**<br>* Learning how to **approach hackathons strategically**<br><br>---<br><br>## 💬 Ask me about<br><br>* **Hackathon experiences** (SIH internal round, Amrita Chennai, VIT Chennai)<br>* Getting started with **DSA as a first-year student**<br>* **AI project basics** like face recognition<br>* Balancing **academics, coding, and football**<br><br>---<br><br>## 🛠️ Tech Skills<br><br>* **Languages:** Python, Java<br>* **Concepts:** Data Structures & Algorithms, OOP<br>* **AI Exposure:** Face Recognition, basic AI/ML concepts<br>* **Tools:** Git, GitHub, VS Code<br><br>---<br><br>## ⚡ Fun facts<br><br>* ⚽ Played for my **school football team**<br>* 🧮 Awarded **Academic Excellence** and **Maths Topper** in Grade 10<br>* 📚 Scored **93.4% in 10th boards** and **85.2% in 12th boards**<br>* Love problems that require **logic + creativity**<br><br>---<br><br>## 🚀 Career Interest<br><br>I’m aiming to grow into a **Software Engineer** with strong problem-solving skills and hands-on experience in **AI-driven applications** and scalable systems.<br><br>---<br><br>⭐ *Always open to learning, collaborating, and building cool things!*<br>
 
-<!--
-**nishanth41415/Nishanth41415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishanth2635) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishanth-v-bb322b386/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nishanth V) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishanth41415@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nishanth41415&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nishanth41415&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth41415&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nishanth41415&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
